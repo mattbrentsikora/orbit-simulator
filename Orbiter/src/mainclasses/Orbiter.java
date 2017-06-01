@@ -16,6 +16,15 @@ import graphics.GamePanel;
 
 import javax.swing.JFrame;
 
+
+/**
+ * Orbiter
+ * @author Matthew Sikora
+ * 20170531
+ * 
+ * This application simulates objects orbiting eachother. This class is the primary main class to launch to get the simulation up.
+ *
+ */
 public class Orbiter extends JFrame implements KeyListener
 {
 	private GamePanel gamePanel;
